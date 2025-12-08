@@ -1,31 +1,24 @@
 <!-- 💫 About Me -->
 <h1>💫 About Me:</h1>
-
 <p>
   🔭 <strong>I’m currently working on:</strong><br>
   – 42's Common Core projects and exploring Low Level Languages like C.<br><br>
-
   🌱 <strong>I’m currently learning:</strong><br>
   – Low-level systems programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software, and security.<br><br>
-
   ⚡ <strong>Fun fact:</strong><br>
   – I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
 </p>
 
-
-<!-- 🌐 Socials -->
+<hr>
 <h2>🌐 Socials:</h2>
 <p>
   <a href="https://linkedin.com/in/www.linkedin.com/in/tdanielsousa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
-<!-- 💻 Tech Stack -->
-<h1>💻 Tech Stack:</h1>
-
-<h2>🚀 Programming Languages</h2>
+<hr>
+<h1>Tech Stack:</h1>
+<h2>Programming Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -35,10 +28,9 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
-
-
+<hr>
 <h2>🎨 Web Development</h2>
-
+<hr>
 <h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -63,7 +55,6 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 <hr>
-
 <h2>🛠️ Tools & Others</h2>
 <p>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -80,4 +71,4 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kinect-6A0DAD?style=for-the-badge&logo=xbox&logoColor=white"/>
 </p>
-
+<hr>
