@@ -5,9 +5,9 @@
   </p>
 
    <p><strong>Fun fact:</strong><br>
-  – I have 1 dog and 2 cats, who may or may not be hacker vigilantes! &nbsp; 
-  <img src="https://i.ibb.co/5gfHKwHg/Gemini-Generated-Image-1dnu1q1dnu1q1dnu.png" style="height: 45px; vertical-align: middle;"/>
+  – I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
     </p>
+      <img src="https://i.ibb.co/5gfHKwHg/Gemini-Generated-Image-1dnu1q1dnu1q1dnu.png" style="height: 45px; vertical-align: middle;"/>
 <br>
 <p>
   <strong>Contact:&nbsp;</strong>
