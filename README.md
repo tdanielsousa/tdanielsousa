@@ -10,7 +10,7 @@
 </p>
 
 <p><strong> Contact:  </strong>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/tdanielsousa">
+  <a href="https://linkedin.com/in/tdanielsousa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
 </p>
