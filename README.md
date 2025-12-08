@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br> - 42's Common Core projects and exploring Low Level Languages like C.<br><br>👯 I’m looking to collaborate on<br> -  Systems programming projects, especially those touching embedded systems or security.<br><br>🤝 I’m looking for help with:<br> -  Advanced topics in compiler design or complex memory management challenges.<br><br>🌱 I’m currently learning:<br> -  Low-level systems programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software, and security.<br> <br>💬 Ask me about:<br>-  Code optimization, improving fundamental understanding of a program, or my journey through the 42 curriculum.<br>   <br>⚡ Fun fact:<br>-  I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
+🔭 I’m currently working on:<br> - 42's Common Core projects and exploring Low Level Languages like C.<br><br>🌱 I’m currently learning:<br> -  Low-level systems programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software, and security.<br> <br>⚡ Fun fact:<br>-  I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
 
 
 ## 🌐 Socials:
