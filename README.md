@@ -10,11 +10,11 @@
 </p>
 
 <hr>
-<h2>🌐 Socials:</h2>
+<h2>🌐 Socials:
   <a href="https://linkedin.com/in/www.linkedin.com/in/tdanielsousa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-<hr>
+</h2>
 <h1>Tech Stack:</h1>
 <h2>Programming Languages</h2>
 <p>
