@@ -15,9 +15,7 @@
   </a>
 </h2>
 <hr>
-<br>
 <h1>Tech Stack:</h1>
-<br>
 <h2>Programming Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -29,9 +27,7 @@
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 <hr>
-<br>
 <h2>🎨 Web Development</h2>
-<br>
 <h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -57,7 +53,6 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 <hr>
-<br>
 <h2>🛠️ Tools & Others</h2>
 <p>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
