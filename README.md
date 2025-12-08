@@ -1,19 +1,29 @@
-<!-- 💫 About Me -->
-<h1>💫 About Me:</h1>
-<p>
-  <strong>I’m currently working on:</strong><br>
-  – 42's Common Core projects and exploring Low Level Languages like C.<br><br>
-  <strong>I’m currently learning:</strong><br>
-  – Low-level systems programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software and security.<br><br>
-   <strong>Fun fact:</strong><br>
-  – I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
+<h1>About Me:</h1>
+
+  <p><strong>I’m currently working on:</strong><br>
+  – 42's Common Core projects and exploring Low Level Languages like C and programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software and security.<br>
+  </p>
+  
+   <strong>Fun fact:</strong>
+<div style="display: flex; align-items: center; gap: 9px;">
+    – I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
+    <img
+        src="https://i.ibb.co/5gfHKwHg/Gemini-Generated-Image-1dnu1q1dnu1q1dnu.png"
+        style="height: 45px;"
+        alt="Robber Pets Icon"
+    />
+</div>
+
+<p style="display: flex; align-items: center; gap: 8px;">
+    <strong>Contact:</strong>
+    <a href="https://linkedin.com/in/tdanielsousa">
+        <img
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+            alt="LinkedIn Badge"
+        />
+    </a>
 </p>
 
-<p><strong> Contact:  </strong>
-  <a href="https://linkedin.com/in/tdanielsousa">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 <hr>
 <h1 align="center">Tech Stack:</h1>
 <h2 align="center">Programming Languages</h2>
