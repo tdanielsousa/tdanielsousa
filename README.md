@@ -11,11 +11,9 @@
 
 <hr>
 <h2>🌐 Socials:</h2>
-<p>
   <a href="https://linkedin.com/in/www.linkedin.com/in/tdanielsousa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-</p>
 <hr>
 <h1>Tech Stack:</h1>
 <h2>Programming Languages</h2>
@@ -30,7 +28,6 @@
 </p>
 <hr>
 <h2>🎨 Web Development</h2>
-<hr>
 <h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
