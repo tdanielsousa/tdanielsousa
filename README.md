@@ -1,19 +1,14 @@
-Put your HTML text here
 <h1>About Me:</h1>
 
   <p><strong>I’m currently working on:</strong><br>
-  – 42's Common Core projects and exploring Low Level Languages like C.<br>
+  – 42's Common Core projects and exploring Low Level Languages like C and fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software and security.<br>
   </p>
-  
-  <p><strong>I’m currently learning:</strong><br>
-  – Low-level systems programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software and security.<br>
-  </p>
-  
+
    <p><strong>Fun fact:</strong><br>
   – I have 1 dog and 2 cats, who may or may not be hacker vigilantes! &nbsp; 
   <img src="https://i.ibb.co/5gfHKwHg/Gemini-Generated-Image-1dnu1q1dnu1q1dnu.png" style="height: 45px; vertical-align: middle;"/>
     </p>
-
+<br>
 <p>
   <strong>Contact:&nbsp;</strong>
   <a href="https://linkedin.com/in/tdanielsousa">
