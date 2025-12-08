@@ -9,14 +9,14 @@
   – I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
 </p>
 
-<h2>🌐 Socials:
+<p><strong> Contact: </strong>
   <a href="https://linkedin.com/in/www.linkedin.com/in/tdanielsousa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-</h2>
+</p>
 <hr>
-<h1>Tech Stack:</h1>
-<h2>Programming Languages</h2>
+<h1 align="center">Tech Stack:</h1>
+<h2 align="center">Programming Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 <hr>
-<h2>🎨 Web Development</h2>
-<h3>Frontend</h3>
+<h2 align="center">🎨 Web Development</h2>
+<h3 align="center">Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,7 +41,7 @@
 </p>
 <hr>
 
-<h3>🖥️ Backend / Hosting / Cloud / Databases</h3>
+<h3 align="center">🖥️ Backend / Hosting / Cloud / Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 <hr>
-<h2>🛠️ Tools & Others</h2>
+<h2 align="center">🛠️ Tools & Others</h2>
 <p>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
