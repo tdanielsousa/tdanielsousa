@@ -1,27 +1,27 @@
+Put your HTML text here
 <h1>About Me:</h1>
 
   <p><strong>I’m currently working on:</strong><br>
-  – 42's Common Core projects and exploring Low Level Languages like C and programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software and security.<br>
+  – 42's Common Core projects and exploring Low Level Languages like C.<br>
   </p>
   
-   <strong>Fun fact:</strong>
-<div style="display: flex; align-items: center; gap: 9px;">
-    – I have 1 dog and 2 cats, who may or may not be hacker vigilantes!
-    <img
-        src="https://i.ibb.co/5gfHKwHg/Gemini-Generated-Image-1dnu1q1dnu1q1dnu.png"
-        style="height: 45px;"
-        alt="Robber Pets Icon"
-    />
-</div>
+  <p><strong>I’m currently learning:</strong><br>
+  – Low-level systems programming fundamentals due to my interest in embedded systems, cloud infrastructure, mission-critical software and security.<br>
+  </p>
+  
+   <p><strong>Fun fact:</strong><br>
+  – I have 1 dog and 2 cats, who may or may not be hacker vigilantes! &nbsp; 
+  <img src="https://i.ibb.co/5gfHKwHg/Gemini-Generated-Image-1dnu1q1dnu1q1dnu.png" style="height: 45px; vertical-align: middle;"/>
+    </p>
 
-<p style="display: flex; align-items: center; gap: 8px;">
-    <strong>Contact:</strong>
-    <a href="https://linkedin.com/in/tdanielsousa">
-        <img
-            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
-            alt="LinkedIn Badge"
-        />
-    </a>
+<p>
+  <strong>Contact:&nbsp;</strong>
+  <a href="https://linkedin.com/in/tdanielsousa">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+      style="vertical-align: middle;"
+    />
+  </a>
 </p>
 
 <hr>
